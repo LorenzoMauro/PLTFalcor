@@ -29,3 +29,6 @@
 *.mp4
 *.tlog
 *.bak
+.cache/
+
+compile_commands.json
